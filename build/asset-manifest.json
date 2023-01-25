@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da200602.css",
+    "main.js": "/static/js/main.c49a6054.js",
+    "static/media/yt-clone.png": "/static/media/yt-clone.71ffd3338c57bdeb27e9.png",
+    "static/media/movies.png": "/static/media/movies.cbd42df1cc1659338422.png",
+    "static/media/todo.png": "/static/media/todo.c5764188d75153672988.png",
+    "static/media/stripe.png": "/static/media/stripe.625d93640dd713148570.png",
+    "static/media/foodapp.png": "/static/media/foodapp.545dd5762f19638fe33d.png",
+    "static/media/generator.png": "/static/media/generator.9f7a93d59214e9382235.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/next.png": "/static/media/next.c72482c59ce8f22648a4.png",
+    "static/media/typescript.png": "/static/media/typescript.52ea0bc40ba11d507e7d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.da200602.css.map": "/static/css/main.da200602.css.map",
+    "main.c49a6054.js.map": "/static/js/main.c49a6054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da200602.css",
+    "static/js/main.c49a6054.js"
+  ]
+}
