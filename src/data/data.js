@@ -9,14 +9,14 @@ import Generator from '../assets/thumbnails/generator.png'
 export const data=[
     {
         id:1,
-        name:"Klon znanej strony YouTube, wykorzystane API z Rapid.api.",
+        name:"Klon znanej strony YouTube, wykorzystane API z Rapid.api",
         image: YT,
         github:"https://github.com/Tommy3DE/yt-clone.git",
         live:"https://63d145e2b8305d42bb61064f--jazzy-beijinho-e60e77.netlify.app",
     },
     {
         id:2,
-        name:"Aplikacja do zamawiania jedzenia, wykorzystany Redux.",
+        name:"Aplikacja do zamawiania jedzenia, wykorzystany Redux",
         image: Food,
         github:"https://github.com/Tommy3DE/food-app",
         live:"https://63d14504e1c8323f3445ecdb--playful-trifle-37b79f.netlify.app",
@@ -44,9 +44,9 @@ export const data=[
     },
     {
         id:6,
-        name:"Prosty ToDo list z opcja usuwania tasków.",
+        name:"ToDo List napisany z wykorzystaniem TypeScripta",
         image: Todo,
-        github:"https://github.com/Tommy3DE/todo",
-        live:"https://profound-starlight-479ce3.netlify.app",
+        github:"https://github.com/Tommy3DE/ts-todo",
+        live:"https://main--imaginative-arithmetic-42afe9.netlify.app",
     },
 ]
