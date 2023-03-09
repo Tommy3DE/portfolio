@@ -4,6 +4,7 @@ import Food from '../assets/thumbnails/foodapp.png'
 import Movies from '../assets/thumbnails/movies.png'
 import Stripe from '../assets/thumbnails/stripe.png'
 import Generator from '../assets/thumbnails/generator.png'
+import Cuisine from '../assets/thumbnails/cuisine.png'
 
 
 export const data=[
@@ -48,5 +49,12 @@ export const data=[
         image: Todo,
         github:"https://github.com/Tommy3DE/ts-todo",
         live:"https://main--imaginative-arithmetic-42afe9.netlify.app",
+    },
+    {
+        id:7,
+        name:"Wyszukiwarka dań napisana w NextJS 13 z TailwindCSS",
+        image: Cuisine,
+        github:"https://github.com/Tommy3DE/foode",
+        live:"https://foode-tawny.vercel.app",
     },
 ]
